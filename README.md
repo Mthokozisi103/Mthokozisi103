@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mthokozisi103
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java langauge
-- 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me call on 0769518401
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me 
 
 <!---
 Mthokozisi103/Mthokozisi103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
